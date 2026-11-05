@@ -10,14 +10,14 @@ Orlun is a thinking partner that remembers who you are: you write your own **Min
 2. Run it. This first version is **not code-signed yet**, so Windows shows "Windows protected your PC". Click **More info → Run anyway**.
 3. On first launch, Orlun checks your PC (memory, graphics card, free disk) and recommends a model to download:
 
-| Model | Download | Best for |
+| Model | Download | Good for |
 |---|---|---|
-| Gemma 4 26B | 18.7 GB | Graphics cards with ~22 GB of memory |
-| Gemma 4 12B | 8.0 GB | 8 GB+ graphics memory. What Orlun is tuned on |
-| Gemma 4 E4B | 6.6 GB | Smaller graphics cards |
-| Gemma 4 E2B | 4.6 GB | Modest PCs |
+| Gemma 4 26B | 18.7 GB | The strongest. Needs about 22 GB of graphics memory |
+| Gemma 4 12B | 8.0 GB | What Orlun is tuned on. Best with 8 GB+ of graphics memory |
+| Gemma 4 E4B | 6.6 GB | Writing, editing and everyday questions. Lighter on the Mind Box |
+| Gemma 4 E2B | 4.6 GB | Simple tasks and editing. Less reliable with your Mind Box; no Impressions |
 
-You can keep using Orlun while the model downloads. Already running [Ollama](https://ollama.com)? Orlun uses it and the models you have.
+You can keep using Orlun while the model downloads. Already have [Ollama](https://ollama.com)? Orlun uses it and the models you have. You can remove models any time in Settings → API keys → This PC.
 
 ## Requirements
 
