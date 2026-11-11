@@ -35,4 +35,6 @@ Settings → Apps → Orlun → Uninstall. Your data stays in `%APPDATA%\Orlun D
 
 ## Licences
 
+Orlun is free to use, for personal or professional work. Its source code is not open source: you may not redistribute, modify or resell it without written permission. The full text is in [LICENSE](LICENSE). To ask about anything else, open an issue in this repository.
+
 Orlun bundles [Ollama](https://github.com/ollama/ollama) (MIT licence; texts in `resources\licenses`). Gemma models are downloaded from Ollama's library under Google's Gemma terms (Apache 2.0 for Gemma 4).
