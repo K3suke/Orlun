@@ -1,0 +1,27 @@
+Orlun licence
+
+Copyright (c) 2026 Daniel (K3suke). All rights reserved.
+
+1. Use. You may download, install and use Orlun free of charge, for personal or
+   professional work, on any number of your own devices.
+
+2. What is not allowed without written permission. You may not sell, rent or
+   sublicense Orlun; redistribute it or host it for others; modify it or create
+   derivative works from it; or remove this notice. Orlun's source code is not
+   open source. Being able to read the code (in the web page or in this
+   repository) does not grant any right to reuse it.
+
+3. Anything else. If you want to do something this licence does not allow, ask
+   first: contact the author through https://github.com/K3suke/Orlun.
+
+4. Third-party software. Orlun for Windows includes software from other
+   authors (among them Ollama, whisper.cpp and Electron), each under its own
+   licence. Those licences are included with the installer and continue to
+   apply to that software.
+
+5. Your content. What you write in Orlun, and what the models write for you,
+   is yours. Orlun has no server and receives none of it.
+
+6. No warranty. Orlun is provided "as is", without warranty of any kind. The
+   author is not liable for any damage or loss arising from its use, including
+   loss of data. AI models make mistakes: check anything that matters.
